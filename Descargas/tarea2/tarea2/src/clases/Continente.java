@@ -6,6 +6,10 @@ package clases;
  */
 public class Continente {
 
+    
+    /*
+        Añado un comentario para que git detecte el cambio en el fichero
+    */
     int idContinente;
     String nombreContinente;
 
